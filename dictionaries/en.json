@@ -1,0 +1,85 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact Us",
+    "readyToStart": "Ready to start"
+  },
+  "hero": {
+    "title": "Confused about your future?",
+    "subtitle": "Let's find your way.",
+    "description": "Discover Comprehensive Career Guidance for Students, Powered by AI-Driven Insights and Expert Mentorship.",
+    "cta": "Start Your Journey",
+    "features": ["Accurate & Reliable Tests", "Personalized Guidance", "Trusted by Thousands Globally"]
+  },
+  "questions": {
+    "title": "There are so many possibilities",
+    "questions": [
+      "How do I choose a major?",
+      "Which career is right for me?",
+      "Where do I even start?",
+      "What should I study?"
+    ]
+  },
+  "waitingList": {
+    "title": "Don't let your potential go to waste. Join the waiting list now!",
+    "description": "By joining our waiting list, you'll be among the first to get access to our innovative tools, personalized guidance, and expert mentorship. Don't wait to start building the future you deserve. Secure your spot today!",
+    "formTitle": "Join the Waiting List:",
+    "form": {
+      "firstName": "First Name*",
+      "lastName": "Last Name*",
+      "subject": "Subject*",
+      "age": "Age*",
+      "school": "School*",
+      "email": "Email*",
+      "submit": "JOIN US"
+    }
+  },
+  "services": {
+    "title": "What We Do?",
+    "description": "At TalebPro, We provide everything you need to confidently define your academic and career path. Our comprehensive platform combines advanced AI technology with expert guidance to ensure every student can make informed decisions about their future.",
+    "items": [
+      {
+        "title": "Exploring Promising Opportunities",
+        "description": "Unlock a world of career possibilities tailored to your unique strengths and interests. Our platform helps you discover exciting paths you may never have considered."
+      },
+      {
+        "title": "Personalized Career Guidance",
+        "description": "Receive customized recommendations based on your skills, interests, and goals. Our AI-driven insights help you make informed decisions about your future."
+      },
+      {
+        "title": "Skills for Tomorrow's Careers",
+        "description": "Stay ahead of the curve with insights into emerging industries and the skills they demand. Prepare for the jobs of the future today."
+      },
+      {
+        "title": "Comprehensive Ability Assessment",
+        "description": "Discover your strengths and areas for growth through our scientifically-backed assessments. Get a complete picture of your capabilities."
+      },
+      {
+        "title": "Data-Driven Insights",
+        "description": "Make informed decisions with access to comprehensive labor market data, salary information, and career progression insights."
+      }
+    ]
+  },
+  "location": {
+    "title": "Where We are?",
+    "description": "Connect with our global team of career experts. We're here to support students worldwide in their journey to academic and professional success.",
+    "address": "123 Main Street Anytown, CA 90210 USA",
+    "email": "info@TalebPro.com",
+    "phone": "+1(800) 000-0000",
+    "support": "24/7 Support Available"
+  },
+  "footer": {
+    "newsletter": "Subscribe to our newsletter",
+    "newsletterDesc": "Get a summary of what we've shipped during the last month, behind the scenes updates, and team picks.",
+    "subscribe": "Subscribe",
+    "links": {
+      "home": "Home",
+      "terms": "Terms & Conditions",
+      "solutions": "Solutions",
+      "contact": "Contact Us"
+    },
+    "copyright": "TalebPro. All rights reserved. © 2024"
+  }
+}
